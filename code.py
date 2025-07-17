@@ -10,3 +10,5 @@ while True:
     if guess == number:
         print(f"Correct! You guessed it in {attempts} attempts.")
         break
+     elif guess < number:
+        print("Too low, try again!")
