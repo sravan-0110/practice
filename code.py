@@ -14,3 +14,5 @@ while True:
         print("Too low, try again!")
         else:
         print("Too high, try again!")
+
+        print("completed")
