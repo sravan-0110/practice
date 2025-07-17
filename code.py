@@ -12,8 +12,4 @@ while True:
         break
      elif guess < number:
         print("Too low, try again!")
-        else:
-        print("Too high, try again!")
-
-        print("completed")
-        print("line1")
+        
